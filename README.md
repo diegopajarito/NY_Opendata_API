@@ -5,4 +5,8 @@ This is a project to share my scripts for accessing and analysing the NY Open Da
 
 * Second Script [Intersection](area_intersection.py) aimed to calculate the intersection areas between two layers in QGIS. 
 
-* All files created are available inside the [Output](output) folder.
+* Second Script [Intersection](area_intersection.py) aimed to calculate the intersection areas between two layers in QGIS. 
+
+All files created within the scripts are in the [Output](output) folder. Data used for the analysis are (or their structure) in the [Data](data) Folder
+
+    Licence: CC-BY. Author(s):  Diego Pajarito 
