@@ -33,8 +33,6 @@ correlation = blocks.corr()
 # plt.scatter(blocks['area_res'], blocks['dist_metro'], marker='.', alpha=0.3)
 # plt.scatter(blocks['area_com'], blocks['dist_metro'], marker='.', alpha=0.3)
 
-
-
 # Setting up the training and testing sets using sklearn
 X = blocks[['area_m2', 'coord_x', 'coord_y', 'area_com', 'area_park', 'area_plaza', 'area_open', 'area_prkng',
             'closest_me', 'dist_metro', 'area_roadb']]
